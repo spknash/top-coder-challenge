@@ -1,0 +1,7 @@
+Model for Trip Type: long_low_activity
+Training Data Size: 156
+Validation Data Size: 39
+Best Parameters: {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 200}
+Validation MAE: $78.86
+Exact Match Percentage: 0.00%
+Close Match Percentage: 0.00%

@@ -1,0 +1,7 @@
+Model for Trip Type: short_high_mileage
+Training Data Size: 127
+Validation Data Size: 32
+Best Parameters: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 200}
+Validation MAE: $61.29
+Exact Match Percentage: 0.00%
+Close Match Percentage: 0.00%

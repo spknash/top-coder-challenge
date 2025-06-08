@@ -1,0 +1,7 @@
+Model for Trip Type: short_high_receipt
+Training Data Size: 28
+Validation Data Size: 7
+Best Parameters: {'learning_rate': 0.05, 'max_depth': 3, 'n_estimators': 200}
+Validation MAE: $39.82
+Exact Match Percentage: 0.00%
+Close Match Percentage: 0.00%

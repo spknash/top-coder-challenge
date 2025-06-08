@@ -1,0 +1,54 @@
+LOW ERROR CASES - TOP 50
+========================
+Format: Error | Expected | Actual | Days | Miles | Receipts | Miles/Day | Receipts/Day | Trip Type
+
+Error: $0.02 | Expected: $1539.00 | Actual: $1539.02 | Days: 3 | Miles: 992 | Receipts: $1897.41 | Miles/Day: 330.66 | Receipts/Day: $632.47 | Trip Type: short_high_mileage
+Error: $0.16 | Expected: $1167.78 | Actual: $1167.62 | Days: 3 | Miles: 278 | Receipts: $994.90 | Miles/Day: 92.66 | Receipts/Day: $331.63 | Trip Type: short_high_receipt
+Error: $0.22 | Expected: $1485.69 | Actual: $1485.47 | Days: 8 | Miles: 77 | Receipts: $1930.98 | Miles/Day: 9.62 | Receipts/Day: $241.37 | Trip Type: long_low_activity
+Error: $0.44 | Expected: $544.12 | Actual: $544.56 | Days: 2 | Miles: 543 | Receipts: $103.37 | Miles/Day: 271.50 | Receipts/Day: $51.68 | Trip Type: short_high_mileage
+Error: $0.58 | Expected: $1828.37 | Actual: $1827.79 | Days: 14 | Miles: 616 | Receipts: $2374.41 | Miles/Day: 44.00 | Receipts/Day: $169.60 | Trip Type: long_low_activity
+Error: $1.35 | Expected: $1423.86 | Actual: $1422.51 | Days: 2 | Miles: 570 | Receipts: $2297.12 | Miles/Day: 285.00 | Receipts/Day: $1148.56 | Trip Type: short_high_mileage
+Error: $1.94 | Expected: $1229.87 | Actual: $1231.81 | Days: 3 | Miles: 196 | Receipts: $1211.68 | Miles/Day: 65.33 | Receipts/Day: $403.89 | Trip Type: short_high_receipt
+Error: $2.23 | Expected: $1372.31 | Actual: $1374.54 | Days: 9 | Miles: 14 | Receipts: $1057.38 | Miles/Day: 1.55 | Receipts/Day: $117.48 | Trip Type: long_low_activity
+Error: $2.64 | Expected: $1757.81 | Actual: $1755.17 | Days: 6 | Miles: 751 | Receipts: $2085.98 | Miles/Day: 125.16 | Receipts/Day: $347.66 | Trip Type: medium_high_receipt
+Error: $2.70 | Expected: $1671.23 | Actual: $1673.93 | Days: 6 | Miles: 475 | Receipts: $1800.71 | Miles/Day: 79.16 | Receipts/Day: $300.11 | Trip Type: medium_high_receipt
+Error: $3.71 | Expected: $406.91 | Actual: $403.20 | Days: 3 | Miles: 154 | Receipts: $274.04 | Miles/Day: 51.33 | Receipts/Day: $91.34 | Trip Type: standard
+Error: $4.91 | Expected: $594.93 | Actual: $599.84 | Days: 5 | Miles: 247 | Receipts: $296.51 | Miles/Day: 49.40 | Receipts/Day: $59.30 | Trip Type: standard
+Error: $5.33 | Expected: $1894.16 | Actual: $1888.83 | Days: 14 | Miles: 1056 | Receipts: $2489.69 | Miles/Day: 75.42 | Receipts/Day: $177.83 | Trip Type: standard
+Error: $5.38 | Expected: $866.07 | Actual: $860.69 | Days: 1 | Miles: 909 | Receipts: $741.82 | Miles/Day: 909.00 | Receipts/Day: $741.82 | Trip Type: short_high_mileage
+Error: $5.57 | Expected: $1351.69 | Actual: $1357.26 | Days: 7 | Miles: 981 | Receipts: $658.85 | Miles/Day: 140.14 | Receipts/Day: $94.12 | Trip Type: medium_balanced
+Error: $5.86 | Expected: $991.49 | Actual: $985.63 | Days: 5 | Miles: 730 | Receipts: $485.73 | Miles/Day: 146.00 | Receipts/Day: $97.14 | Trip Type: medium_balanced
+Error: $6.72 | Expected: $1705.27 | Actual: $1698.55 | Days: 7 | Miles: 381 | Receipts: $2106.96 | Miles/Day: 54.42 | Receipts/Day: $300.99 | Trip Type: medium_high_receipt
+Error: $6.85 | Expected: $1746.74 | Actual: $1753.59 | Days: 12 | Miles: 482 | Receipts: $1710.47 | Miles/Day: 40.16 | Receipts/Day: $142.53 | Trip Type: long_low_activity
+Error: $6.85 | Expected: $2047.06 | Actual: $2040.21 | Days: 8 | Miles: 1187 | Receipts: $1045.91 | Miles/Day: 148.37 | Receipts/Day: $130.73 | Trip Type: standard
+Error: $8.66 | Expected: $1313.53 | Actual: $1322.19 | Days: 1 | Miles: 979 | Receipts: $1292.54 | Miles/Day: 979.00 | Receipts/Day: $1292.54 | Trip Type: short_high_mileage
+Error: $9.12 | Expected: $1279.31 | Actual: $1270.19 | Days: 3 | Miles: 289 | Receipts: $1245.67 | Miles/Day: 96.33 | Receipts/Day: $415.22 | Trip Type: short_high_receipt
+Error: $9.40 | Expected: $1523.75 | Actual: $1514.35 | Days: 5 | Miles: 152 | Receipts: $2444.81 | Miles/Day: 30.40 | Receipts/Day: $488.96 | Trip Type: medium_high_receipt
+Error: $9.48 | Expected: $2014.72 | Actual: $2024.20 | Days: 7 | Miles: 1126 | Receipts: $1103.75 | Miles/Day: 160.85 | Receipts/Day: $157.67 | Trip Type: medium_balanced
+Error: $9.63 | Expected: $1264.53 | Actual: $1274.16 | Days: 2 | Miles: 500 | Receipts: $1246.48 | Miles/Day: 250.00 | Receipts/Day: $623.24 | Trip Type: short_high_mileage
+Error: $9.91 | Expected: $1682.62 | Actual: $1692.53 | Days: 14 | Miles: 81 | Receipts: $1251.97 | Miles/Day: 5.78 | Receipts/Day: $89.42 | Trip Type: long_low_activity
+Error: $12.01 | Expected: $764.64 | Actual: $776.65 | Days: 3 | Miles: 1007.56 | Receipts: $187.52 | Miles/Day: 335.85 | Receipts/Day: $62.50 | Trip Type: short_high_mileage
+Error: $12.24 | Expected: $570.99 | Actual: $558.75 | Days: 5 | Miles: 125 | Receipts: $96.38 | Miles/Day: 25.00 | Receipts/Day: $19.27 | Trip Type: standard
+Error: $12.64 | Expected: $1501.10 | Actual: $1513.74 | Days: 4 | Miles: 470 | Receipts: $1968.63 | Miles/Day: 117.50 | Receipts/Day: $492.15 | Trip Type: medium_high_receipt
+Error: $13.58 | Expected: $225.12 | Actual: $238.70 | Days: 1 | Miles: 181 | Receipts: $128.05 | Miles/Day: 181.00 | Receipts/Day: $128.05 | Trip Type: standard
+Error: $13.62 | Expected: $1023.65 | Actual: $1037.27 | Days: 4 | Miles: 1075 | Receipts: $586.17 | Miles/Day: 268.75 | Receipts/Day: $146.54 | Trip Type: standard
+Error: $13.64 | Expected: $430.86 | Actual: $417.22 | Days: 3 | Miles: 177 | Receipts: $18.73 | Miles/Day: 59.00 | Receipts/Day: $6.24 | Trip Type: standard
+Error: $13.70 | Expected: $1142.89 | Actual: $1129.19 | Days: 8 | Miles: 626 | Receipts: $545.84 | Miles/Day: 78.25 | Receipts/Day: $68.23 | Trip Type: standard
+Error: $13.74 | Expected: $1400.57 | Actual: $1414.31 | Days: 4 | Miles: 199 | Receipts: $1310.01 | Miles/Day: 49.75 | Receipts/Day: $327.50 | Trip Type: medium_high_receipt
+Error: $15.44 | Expected: $1485.05 | Actual: $1469.61 | Days: 8 | Miles: 52 | Receipts: $2353.50 | Miles/Day: 6.50 | Receipts/Day: $294.18 | Trip Type: long_low_activity
+Error: $15.67 | Expected: $1361.30 | Actual: $1376.97 | Days: 3 | Miles: 1158 | Receipts: $1107.40 | Miles/Day: 386.00 | Receipts/Day: $369.13 | Trip Type: short_high_mileage
+Error: $16.70 | Expected: $1793.36 | Actual: $1776.66 | Days: 13 | Miles: 799 | Receipts: $951.92 | Miles/Day: 61.46 | Receipts/Day: $73.22 | Trip Type: standard
+Error: $16.88 | Expected: $1789.85 | Actual: $1772.97 | Days: 5 | Miles: 781 | Receipts: $2114.27 | Miles/Day: 156.20 | Receipts/Day: $422.85 | Trip Type: medium_high_receipt
+Error: $17.22 | Expected: $1649.04 | Actual: $1666.26 | Days: 11 | Miles: 458 | Receipts: $1364.29 | Miles/Day: 41.63 | Receipts/Day: $124.02 | Trip Type: long_low_activity
+Error: $17.89 | Expected: $1422.12 | Actual: $1440.01 | Days: 8 | Miles: 7 | Receipts: $2075.60 | Miles/Day: .87 | Receipts/Day: $259.45 | Trip Type: long_low_activity
+Error: $18.20 | Expected: $1951.77 | Actual: $1933.57 | Days: 13 | Miles: 855 | Receipts: $1798.75 | Miles/Day: 65.76 | Receipts/Day: $138.36 | Trip Type: standard
+Error: $19.01 | Expected: $509.52 | Actual: $528.53 | Days: 2 | Miles: 547 | Receipts: $119.09 | Miles/Day: 273.50 | Receipts/Day: $59.54 | Trip Type: short_high_mileage
+Error: $19.15 | Expected: $831.96 | Actual: $851.11 | Days: 10 | Miles: 424 | Receipts: $474.99 | Miles/Day: 42.40 | Receipts/Day: $47.49 | Trip Type: long_low_activity
+Error: $19.28 | Expected: $1349.04 | Actual: $1329.76 | Days: 2 | Miles: 267 | Receipts: $2116.93 | Miles/Day: 133.50 | Receipts/Day: $1058.46 | Trip Type: short_high_receipt
+Error: $19.30 | Expected: $913.29 | Actual: $893.99 | Days: 9 | Miles: 397 | Receipts: $348.49 | Miles/Day: 44.11 | Receipts/Day: $38.72 | Trip Type: long_low_activity
+Error: $19.52 | Expected: $1502.49 | Actual: $1482.97 | Days: 5 | Miles: 770 | Receipts: $873.33 | Miles/Day: 154.00 | Receipts/Day: $174.66 | Trip Type: medium_balanced
+Error: $19.70 | Expected: $1698.94 | Actual: $1679.24 | Days: 4 | Miles: 862 | Receipts: $2335.55 | Miles/Day: 215.50 | Receipts/Day: $583.88 | Trip Type: medium_high_receipt
+Error: $20.38 | Expected: $1623.81 | Actual: $1603.43 | Days: 5 | Miles: 569 | Receipts: $1856.70 | Miles/Day: 113.80 | Receipts/Day: $371.34 | Trip Type: medium_high_receipt
+Error: $20.96 | Expected: $1615.13 | Actual: $1636.09 | Days: 10 | Miles: 536 | Receipts: $2194.42 | Miles/Day: 53.60 | Receipts/Day: $219.44 | Trip Type: long_high_receipt
+Error: $20.99 | Expected: $1525.26 | Actual: $1504.27 | Days: 8 | Miles: 435 | Receipts: $1129.65 | Miles/Day: 54.37 | Receipts/Day: $141.20 | Trip Type: standard
+Error: $22.34 | Expected: $1256.92 | Actual: $1234.58 | Days: 3 | Miles: 280 | Receipts: $1090.37 | Miles/Day: 93.33 | Receipts/Day: $363.45 | Trip Type: short_high_receipt

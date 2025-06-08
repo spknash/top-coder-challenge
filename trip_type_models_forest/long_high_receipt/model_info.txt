@@ -1,0 +1,7 @@
+Model for Trip Type: long_high_receipt
+Training Data Size: 42
+Validation Data Size: 11
+Best Parameters: {'max_depth': 10, 'min_samples_split': 2, 'n_estimators': 200}
+Validation MAE: $53.78
+Exact Match Percentage: 0.00%
+Close Match Percentage: 0.00%

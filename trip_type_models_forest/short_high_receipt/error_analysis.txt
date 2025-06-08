@@ -1,0 +1,23 @@
+LARGEST ERRORS ANALYSIS
+======================
+
+Case: Trip Duration=1.0 days, Miles=45.0, Receipts=$1070.22
+  Expected: $922.69, Predicted: $1060.02, Error: $137.33
+  Miles/Day: 45.00, Receipts/Day: $1070.22
+
+Case: Trip Duration=2.0 days, Miles=68.0, Receipts=$756.61
+  Expected: $648.53, Predicted: $738.71, Error: $90.18
+  Miles/Day: 34.00, Receipts/Day: $378.31
+
+Case: Trip Duration=2.0 days, Miles=274.0, Receipts=$888.24
+  Expected: $917.79, Predicted: $985.95, Error: $68.16
+  Miles/Day: 137.00, Receipts/Day: $444.12
+
+Case: Trip Duration=2.0 days, Miles=91.0, Receipts=$1073.76
+  Expected: $1013.78, Predicted: $1068.30, Error: $54.52
+  Miles/Day: 45.50, Receipts/Day: $536.88
+
+Case: Trip Duration=2.0 days, Miles=301.0, Receipts=$769.23
+  Expected: $731.28, Predicted: $777.91, Error: $46.63
+  Miles/Day: 150.50, Receipts/Day: $384.62
+

@@ -1,0 +1,7 @@
+Model for Trip Type: medium_balanced
+Training Data Size: 78
+Validation Data Size: 20
+Best Parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+Validation MAE: $115.52
+Exact Match Percentage: 0.00%
+Close Match Percentage: 0.00%

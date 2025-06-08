@@ -1,0 +1,12 @@
+TRIP TYPE DISTRIBUTION
+=====================
+
+Total trips: 1000
+
+standard: 339 trips (33.9%)
+long_low_activity: 195 trips (19.5%)
+short_high_mileage: 159 trips (15.9%)
+medium_high_receipt: 121 trips (12.1%)
+medium_balanced: 98 trips (9.8%)
+long_high_receipt: 53 trips (5.3%)
+short_high_receipt: 35 trips (3.5%)
